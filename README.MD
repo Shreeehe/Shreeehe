@@ -1,80 +1,45 @@
-<h1 align="center">Hey, I'm Shrinath 👋</h1>
+# Hey, I'm Shrinath 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+in+Poultry+Technology...;...now+training+LLMs+on+chicken+diseases;AI%2FML+Engineer+%7C+Bengaluru%2C+India;Building+AI+for+fun+%2B+profit" alt="Typing SVG" />
-</p>
+Turning caffeine into code. AI/ML tinkerer with a soft spot for poultry science & elder care tech. Building things because it's fun.
 
-AI/ML Engineer & Data Analyst working across LLM systems, multi-agent architectures, and automation. Also run **Aksraya Health Care** (home nursing & elder care) — tech and business side, both.
+I'm an AI/ML Engineer & Data Analyst based in Bengaluru, working across LLM systems, multi-agent architectures, data pipelines, and automation. Also run [Aksraya Health Care](https://github.com/Shreeehe) — a home nursing & elder care business, where I handle both the tech and the operations side.
 
----
-
-### 🌟 Featured builds
-
-<table>
-<tr>
-<td width="50%">
-
-**🐔 [FlockDoc](https://github.com/Shreeehe/FlockDoc)**
-Avian disease finder — symptom analysis + droppings image recognition + health chatbot
-
-</td>
-<td width="50%">
-
-**💊 [medi.mate](https://github.com/Shreeehe/medi.mate)**
-RAG app for prescriptions — upload, ask questions, auto-schedule medicine reminders
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧠 [Poultry-RAG](https://github.com/Shreeehe/Poultry-RAG---Finetunning)**
-Fine-tuned Phi-3 Mini on 700+ poultry docs using QLoRA
-
-</td>
-<td width="50%">
-
-**📈 [Eggonomics](https://github.com/Shreeehe/Eggonomics)**
-Automated NECC egg-price dashboard — trends & city comparisons via GitHub Actions
-
-</td>
-</tr>
-</table>
+Yes, my B.Tech is in **Poultry Technology**. No, I did not expect to end up training LLMs either. It's been a fun ride.
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 What I build
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,ts,streamlit,githubactions&theme=dark" />
-</p>
+- 🩺 **Healthcare AI** — RAG pipelines for prescriptions, medical diagnosis assistants, symptom-based chatbots
+- 🐔 **Poultry-tech AI** — fine-tuned LLMs for poultry nutrition/health, disease prediction from droppings & symptoms, egg price analytics
+- 🤖 **Agents & automation** — multi-agent systems, scraping pipelines, workflow automation
+- 📊 **Data pipelines & dashboards** — ETL, forecasting, and analytics tooling
 
-<p align="left">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" height="28"/>
-</p>
+### 🌟 Featured projects
+
+| Project | What it does |
+|---|---|
+| [medi.mate](https://github.com/Shreeehe/medi.mate) | RAG app to manage & understand prescriptions — upload, ask questions, get medicine reminders on your calendar |
+| [FlockDoc](https://github.com/Shreeehe/FlockDoc) | AI-powered avian disease finder — symptom analysis, droppings image recognition, health chatbot |
+| [Poultry-RAG---Finetunning](https://github.com/Shreeehe/Poultry-RAG---Finetunning) | Fine-tuned Phi-3 Mini on 700+ poultry docs (QLoRA) for a domain-specialized LLM |
+| [Eggonomics](https://github.com/Shreeehe/Eggonomics) | Automated dashboard tracking daily NECC egg prices — trends & city comparisons |
+| [ai-outfit](https://github.com/Shreeehe/ai-outfit) | ML-based wardrobe app — categorizes clothes, recommends outfits by weather & occasion |
+| [Prescription-Extractor-Pipeline](https://github.com/Shreeehe/Prescription-Extractor-Pipeline) | Prescription extraction pipeline using LangGraph + OTC checks |
+
+### 🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 📫 Find me elsewhere
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://shreeehe.github.io/My-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrinathps)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreeehe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeehe&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreeehe&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreeehe&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-📫 <a href="https://shreeehe.github.io/My-Portfolio/">Portfolio</a> · <a href="https://linkedin.com/in/shrinathps">LinkedIn</a><br/>
-<sub>Bengaluru, India — probably debugging something poultry-related right now 🐔</sub>
-</p>
+*Based in Bengaluru, India 🇮🇳*
