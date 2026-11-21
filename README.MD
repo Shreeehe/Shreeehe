@@ -1,7 +1,5 @@
 # Hey, I'm Shrinath 👋
 
-Turning caffeine into code. AI/ML tinkerer with a soft spot for poultry science & elder care tech. Building things because it's fun.
-
 I'm an AI/ML Engineer & Data Analyst based in Bengaluru, working across LLM systems, multi-agent architectures, data pipelines, and automation. Also run [Aksraya Health Care](https://github.com/Shreeehe) — a home nursing & elder care business, where I handle both the tech and the operations side.
 
 Yes, my B.Tech is in **Poultry Technology**. No, I did not expect to end up training LLMs either. It's been a fun ride.
